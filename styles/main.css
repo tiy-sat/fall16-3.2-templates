@@ -1,1 +1,17 @@
 /* Main CSS */
+
+.hot {
+  color: red;
+}
+
+.cold {
+  color: blue;
+}
+
+.weather__day {
+  width: 120px;
+  border: 1px solid grey;
+  color: white;
+  text-transform: uppercase;
+  padding: 10px 20px;
+}
